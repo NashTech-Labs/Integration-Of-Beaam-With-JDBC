@@ -4,7 +4,7 @@
  * version : 11.0.11
  * @author shashikant
  */
-package com.knoldus.beam.jdbc;
+package com.nashtech.beam.jdbc;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
